@@ -1,9 +1,15 @@
-### Hi there 👋
+## HELLO WORlD!
+
+I am student developer. 😍  
+I like to develop many interesting things with JavaScript! 👨‍💻
+
+
+![kakasoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakasoo)
+
 
 <!--
 **kakasoo/kakasoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
