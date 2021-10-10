@@ -15,6 +15,7 @@ gmail : kscodebase@gmail.com
 
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
+|     🌃 Company     | 2021.10 ~ 2021.12 | Internship                               |  MCMR  |
 |      🏫 Education      | 2020.08 ~ 2020.12 | Boostcamp membership 5                    |  NAVER CONNECT  |
 |      🏫 Education      | 2020.07 ~ 2020.08 | Boostcamp challenge 5                     |  NAVER CONNECT  |
 |      🏫 Education      | 2016.03 ~ 2022.06 | Department of software                    | Gachon University |
