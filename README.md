@@ -1,6 +1,6 @@
 ## Hello, I'm kakasoo.
 
-I am still student, But I'm working as developer. 😍  
+I am still student, But I'm working as developer. ( I work as the only backend developer for a startup. HELP ME. )  😍  
 I like to develop many interesting things with JavaScript! ( + TypeScript ) 👨‍💻
 
 tistory : https://kscodebase.tistory.com  
