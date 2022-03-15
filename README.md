@@ -6,6 +6,7 @@ I like to develop many interesting things with JavaScript! ( + TypeScript ) 👨
 tistory : https://kscodebase.tistory.com  
 velog : https://velog.io/@kakasoo  
 gmail : kscodebase@gmail.com  
+linkedIn : https://www.linkedin.com/in/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211/
   
 🌱 I'm currently learning nest.js  
 🌱 I use nestjs, typeorm, typescript, mysql, ec2, rds... etc to create a server.  
