@@ -1,6 +1,6 @@
 ## Hello, I'm kakasoo.
 
-I work as the only backend developer for a startup. HELP ME. 😍
+I work as the only backend developer for a startup. HELP ME. 😍    
 I like to develop many interesting things with JavaScript! ( + TypeScript ) 👨‍💻
 
 tistory : https://kscodebase.tistory.com  
