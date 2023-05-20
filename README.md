@@ -19,8 +19,8 @@ linkedIn : https://www.linkedin.com/in/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211/
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
 |      🏫 Education      | 2022.09 ~ 2022.10 | Boostcamp membership 7 reviewer                    |  NAVER CONNECT  |
-|     🌃 Company     | 2022.04 ~ now | B.E. developer                            |  rawLabs  |
-|     🌃 Company     | 2021.10 ~ 2022.03 | B.E. developer                            |  MCMR  |
+|     🌃 Company     | 2022.04 ~ 2023.05 | B.E. developer                            |  B2B startup  |
+|     🌃 Company     | 2021.10 ~ 2022.03 | B.E. developer                            |  commerce startup  |
 |      🏫 Education      | 2020.08 ~ 2020.12 | Boostcamp membership 5                    |  NAVER CONNECT  |
 |      🏫 Education      | 2020.07 ~ 2020.08 | Boostcamp challenge 5                     |  NAVER CONNECT  |
 |      🏫 Education      | 2016.03 ~ 2022.06 | Department of computer engineering (double major)                    | Gachon University |
