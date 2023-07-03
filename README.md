@@ -18,6 +18,7 @@ linkedIn : https://www.linkedin.com/in/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211/
 
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
+|     🌃 Company     | 2022.07 ~ | B.E. developer                            |  B2B startup  |
 |      🏫 Education      | 2022.09 ~ 2022.10 | Boostcamp membership 7 reviewer                    |  NAVER CONNECT  |
 |     🌃 Company     | 2022.04 ~ 2023.05 | B.E. developer                            |  B2B startup  |
 |     🌃 Company     | 2021.10 ~ 2022.03 | B.E. developer                            |  commerce startup  |
