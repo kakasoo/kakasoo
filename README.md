@@ -4,6 +4,7 @@
 - Developer who knows the benefits of having the same language between backend and frontend ( TypeScript ) 👨‍💻
     - deep understanding of type systems
 - Developer interested in business and organizational culture
+- With domain knowledge of commerce and marketing
 - Developer with my own philosophy, whether it's about code or not.
 
 blog1 : https://kscodebase.tistory.com  
