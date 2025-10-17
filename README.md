@@ -19,7 +19,8 @@ linkedIn : https://www.linkedin.com/in/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211/
 
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
-|     🌃 Company     | 2024.06 ~ | B.E. developer                            |  Wrtn  |
+|      ?     | ? | ?                            |  ?  |
+|     🌃 Company     | 2024.06 ~ 2025.10 | B.E. developer                            |  Wrtn  |
 |      🏕️ Boostcamp Reviewer      | 2023.09 ~ 2023.10 | Boostcamp membership 8                    |  NAVER CONNECT  |
 |     🌃 Company     | 2023.07 ~ 2024.06 | B.E. developer                            |  Imweb  |
 |      🏕️ Boostcamp Reviewer      | 2022.09 ~ 2022.10 | Boostcamp membership 7                    |  NAVER CONNECT  |
